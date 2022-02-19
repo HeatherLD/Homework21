@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'my-us-gdp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AE80E8AED52416887F24FEFEEE80D95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A772B5DE825A4D83BAFBE069C6A033BB }}
